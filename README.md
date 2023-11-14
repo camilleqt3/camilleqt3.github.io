@@ -303,11 +303,7 @@ if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('/sw.js');
   });
 }</script><script>
-    "undefined"=== typeof _trfq && (window._trfq = []);
-    _trfq.push(['cmdLogEvent', 'impression', 'pandc.vnext.upgrades.freemium_ad', [['source-website', 'fa42322a-18b2-4f70-8b18-4188bc046b98']]]);
-    document.querySelector('a.gd-ad-body').addEventListener('click', function() {
-      _trfq.push(['cmdLogEvent', 'click', 'pandc.vnext.upgrades.freemium_ad', [['source-website', 'fa42322a-18b2-4f70-8b18-4188bc046b98']]]);
-    });
+
   </script><style id="dynamic-tagline-390275-style">#dynamic-tagline-390275 { font-size: 39px !important; }</style><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/bs-layout9-Theme-publish-Theme-490a9422.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/MESSAGING/bs-Component-de800ada.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-_rollupPluginBabelHelpers-a2e90765.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-boldOutline-e1892f15.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-defaultSocialIconPack-a2c518b6.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-index-4e26cd6b.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-index3-c8de852e.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-legacyOverrides-42582241.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-overlayTypes-e1dbe765.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-themeOverrides-e736c017.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/form/formIdentifiers-99523055.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/traffic2-0a7e72c6.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/components/Recaptcha/badge-e542c4f1.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/components/Carousel-3d82957b.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/components/ColorSwatch-4196a0a9.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-dataAids-6a839d53.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-index2-87bd33e6.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-navigationDrawer-27f5f1f5.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-searchFormLocations-c86f2a99.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/_commonjsHelpers-67085353.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/_react_commonjs-external-a1351e34.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/_rollupPluginBabelHelpers-8ce54c82.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/interopRequireDefault-c83974f7.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/bs-LinkAwareComponent-ed6872ee.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/bs-Search-Component-6b2b8cc5.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/bs-CartIcon-Component-df8195f6.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/bs-FlyoutMenu-Component-bd43c5d0.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-navigation-41f06436.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-PortalContainer-d61db76e.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-ComponentPropTypes-39236c19.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-Toggle-37f740c7.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/ols-core/core-bundle-1a1a60ef.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/OlsConfigStore-52bf928d.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/ScrollWidgetConstants-6c8e59e7.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/ols-core/utils/ApiUtils-43b0f989.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/index-f85dddbe.js"></script></head>
 
   <body class="x x-fonts-righteous"><div id="layout-fa-42322-a-18-b-2-4-f-70-8-b-18-4188-bc-046-b-98" class="layout layout-layout layout-layout-layout-9 locale-en-PH lang-en"><div data-ux="Page" id="page-390219" class="x-el x-el-div x-el c1-1 c1-2 c1-3 c1-4 c1-5 c1-6 c1-7 c1-8 c1-9 c1-a c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div page-inner c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div id="735fc3bc-7b70-4be5-8126-1552d967f8bd" class="widget widget-header widget-header-header-9"><div data-ux="Header" role="main" data-aid="HEADER_WIDGET" id="n-390220" class="x-el x-el-div x-el x-el c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-h c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div> <div id="freemium-ad-390221"><div data-freemium-ad="true" style="overflow: hidden; width: 100%; z-index: 10000; position: fixed; left: 0px;"><div id="GODADDY_FREEMIUM_AD" class="gd-ad-wrapper">
@@ -318,116 +314,8 @@ if ('serviceWorker' in navigator) {
       font-display: swap;
     }
 
-    @font-face {
-      font-family: "GD Sherpa";
-      font-weight: bold;
-      src: url('//img1.wsimg.com/blobby/go/ux/fonts/sherpa/1.1/gdsherpa-bold.woff2');
-      font-display: swap;
-    }
-
-    .gd-ad-wrapper {
-      box-sizing: border-box;
-      background-color: #FFF;
-      font-family: GD Sherpa, Helvetica, Arial, sans_serif;
-      width: 100%;
-      z-index: 10000;
-    }
-
-    .gd-ad-body {
-      align-items: center;
-      border-bottom: 5px solid #00A4A6;
-      color: #000;
-      cursor: pointer;
-      display: flex;
-      font-size: 14px;
-      min-height: 50px;
-      justify-content: center;
-      text-decoration: none;
-      padding: 2px;
-    }
-
-    .gd-ad-body:hover {
-      color: #000;
-      text-decoration: none;
-    }
-
-    .gd-ad-logo {
-      margin-right: 8px;
-    }
-
-    .gd-ad-text-bold {
-      font-weight: bold;
-    }
-
-    .gd-ad-psuedo-link {
-      color: #09757A;
-      text-decoration: underline;
-    }
-
-    .gd-ad-flex-parent {
-      align-items: center;
-      display: flex;
-    }
-
-    .gd-ad-flex-child {
-      align-items: center;
-      display: flex;
-      flex-shrink: 0;
-    }
-
-    .gd-ad-body-mobile {
-      font-size: 12px !important;
-    }
-
-    .gd-ad-body-desktop {
-      font-size: 14px !important;
-    }
-
-    .gd-ad-mobile {
-      display: none;
-    }
-
-    .gd-ad-button {
-      background-color: #FFF;
-      border: 1px solid #8995A9;
-      border-radius: 4px;
-      cursor: pointer;
-      margin-left: 10px;
-      padding: 8px 24px;
-    }
-
-    @media screen and (max-width: 768px) {
-      .gd-ad-body {
-        font-size: 12px;
-        min-height: 40px;
-      }
-
-      .gd-ad-desktop {
-        display: none;
-      }
-
-      .gd-ad-mobile {
-        display: inline-block;
-      }
-    }
   </style>
-  <a class="gd-ad-body
-" href="https://www.godaddy.com/websites/website-builder?isc=pwugc&amp;utm_source=wsb&amp;utm_medium=applications&amp;utm_campaign=en-us_corp_applications_banner&amp;utm_content=fa42322a-18b2-4f70-8b18-4188bc046b98" target="_blank" rel="noopener nofollow">
-    <div class="gd-ad-flex-parent">
-      <div class="gd-ad-flex-child">
-        <svg class="gd-ad-logo" width="20" height="18" viewBox="0 0 90 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M77.6274 3.65995C68.2748 -2.17733 55.9623 -0.791312 44.9962 6.10453C34.0339 -0.787504 21.7214 -2.17353 12.3726 3.65995C-2.40398 12.8747 -4.20051 36.6199 8.36376 56.6906C17.6287 71.4875 32.1077 80.1578 45 79.9978C57.8923 80.1578 72.3751 71.4913 81.6362 56.6906C94.2005 36.6199 92.404 12.8747 77.6274 3.65995ZM15.1532 52.4525C12.5099 48.2297 10.5608 43.7708 9.35547 39.1977C8.22263 34.8912 7.79924 30.6874 8.10057 26.7045C8.66127 19.2908 11.686 13.5144 16.6141 10.4378C21.5459 7.36109 28.0722 7.18213 34.9913 9.92752C36.0326 10.3426 37.0625 10.8223 38.0847 11.3516C34.3963 14.6872 31.0054 18.7006 28.1218 23.3042C20.4856 35.5004 18.1665 49.0484 20.825 59.8738C18.7424 57.6349 16.8429 55.1484 15.1532 52.4525ZM80.6407 39.1977C79.4354 43.7708 77.4863 48.2297 74.843 52.4525C73.1533 55.1484 71.2537 57.6311 69.1673 59.8777C71.5474 50.1869 69.9378 38.3143 64.0943 27.1843C63.6824 26.3999 62.7326 26.1409 61.985 26.6093L43.7909 37.9602C43.0929 38.3943 42.8831 39.312 43.3179 40.005L45.9841 44.2659C46.4189 44.9627 47.3382 45.1721 48.0324 44.738L59.8261 37.3814C60.2228 38.5123 60.5737 39.6509 60.8789 40.797C62.0117 45.1036 62.4351 49.3073 62.1338 53.2902C61.5731 60.7039 58.5484 66.4803 53.6203 69.557C51.1563 71.0915 48.2955 71.9064 45.1869 71.9939C45.1221 71.9939 45.0534 71.9939 44.9886 71.9939C44.9275 71.9939 44.8665 71.9939 44.8093 71.9939C41.7006 71.9064 38.8399 71.0915 36.3759 69.557C31.444 66.4803 28.4231 60.7039 27.8624 53.2902C27.5611 49.3073 27.9845 45.1036 29.1173 40.797C30.3226 36.2239 32.2717 31.765 34.915 27.5422C37.5583 23.3194 40.7166 19.6144 44.3058 16.5302C47.6853 13.6248 51.286 11.4011 55.0049 9.92752C61.9278 7.17832 68.4541 7.36109 73.3821 10.4378C78.314 13.5144 81.3349 19.2908 81.8956 26.7045C82.2008 30.6874 81.7774 34.8912 80.6407 39.1977Z" fill="#00A4A6"></path>
-        </svg>
-        <span>Powered by</span>
-        <span>&nbsp;</span>
-        <span class="gd-ad-text-bold gd-ad-desktop">GoDaddy Websites + Marketing.</span>
-        <span class="gd-ad-text-bold gd-ad-mobile">GoDaddy</span>
-        <span class="gd-ad-desktop">&nbsp;Create your free website now.</span>
-        <span class="gd-ad-mobile">&nbsp; | &nbsp;</span>
-      </div>
-      <button class="gd-ad-button gd-ad-desktop">Start for Free</button>
-      <span class="gd-ad-text-bold gd-ad-psuedo-link gd-ad-mobile">Create your free site</span>
-    </div>
+ 
   </a>
   
 </div>
