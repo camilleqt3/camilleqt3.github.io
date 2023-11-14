@@ -1,4 +1,3 @@
-[no error]
 <!DOCTYPE html>
 <html lang="en-PH">
   
