@@ -164,6 +164,9 @@ SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
   margin: 0 auto;
   transition: opacity 0.5s;
 }
+ .non-clickable-link {
+            pointer-events: none;
+        }
 .carousel .carousel-container-inner {
   margin: 0 auto;
   position: relative;
