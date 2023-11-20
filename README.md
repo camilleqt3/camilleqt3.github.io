@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -6,34 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.8.0 -->
 
-<meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="camilleqt3.github.io" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://camilleqt3.github.io/" />
-<meta property="og:url" content="https://camilleqt3.github.io/" />
-<meta property="og:site_name" content="camilleqt3.github.io" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="camilleqt3.github.io" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"camilleqt3.github.io","name":"camilleqt3.github.io","url":"https://camilleqt3.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=d52b62685be4b8b41670e6f609efd024094daaf3">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
