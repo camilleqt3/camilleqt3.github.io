@@ -6,8 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>camilleqt3.github.io</title>
 <meta name="generator" content="Jekyll v3.9.3">
 <meta property="og:title" content="camilleqt3.github.io">
 <meta property="og:locale" content="en_US">
@@ -19,26 +17,13 @@
 <meta property="twitter:title" content="camilleqt3.github.io">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","headline":"camilleqt3.github.io","name":"camilleqt3.github.io","url":"https://camilleqt3.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
 
-    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=164463948eda2508e545b645aa126b96275e14b6">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
 
   <style id="logo-text-390235-style">#logo-text-390235 { font-size: 22px !important; }</style><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/bs-layout9-Theme-publish-Theme-490a9422.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/MESSAGING/bs-Component-de800ada.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-_rollupPluginBabelHelpers-a2e90765.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-boldOutline-e1892f15.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-defaultSocialIconPack-a2c518b6.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-index-4e26cd6b.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-index3-c8de852e.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-legacyOverrides-42582241.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-overlayTypes-e1dbe765.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-themeOverrides-e736c017.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/form/formIdentifiers-99523055.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/traffic2-0a7e72c6.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/components/Recaptcha/badge-e542c4f1.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/components/Carousel-3d82957b.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/components/ColorSwatch-4196a0a9.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-dataAids-6a839d53.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-index2-87bd33e6.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-navigationDrawer-27f5f1f5.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-searchFormLocations-c86f2a99.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/_commonjsHelpers-67085353.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/_react_commonjs-external-a1351e34.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/_rollupPluginBabelHelpers-8ce54c82.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/interopRequireDefault-c83974f7.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/bs-Search-Component-6b2b8cc5.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/bs-CartIcon-Component-df8195f6.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/bs-FlyoutMenu-Component-bd43c5d0.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-navigation-41f06436.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-PortalContainer-d61db76e.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-ComponentPropTypes-39236c19.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@widget/LAYOUT/c/bs-Toggle-37f740c7.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/ols-core/core-bundle-1a1a60ef.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/OlsConfigStore-52bf928d.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/ScrollWidgetConstants-6c8e59e7.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/ols-core/utils/ApiUtils-43b0f989.js"></script><script crossorigin="Anonymous" src="https://img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/c/index-f85dddbe.js"></script></head>
 
   <body class="x x-fonts-righteous">
     <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://camilleqt3.github.io/">camilleqt3.github.io</a></h1>
+
       
 
 
